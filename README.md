@@ -61,7 +61,6 @@
     <li>String manipulation</li>
     <li>Validação simples com regex</li>
     <li>Uso de <code>String.repeat()</code></li>
-    <li><code>StringBuilder</code> opcional</li>
 </ul>
 
 <hr>
